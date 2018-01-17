@@ -1,4 +1,4 @@
-package by.matrosov.captchawithspring;
+package by.matrosov.captchawithspring.model;
 
 public class Form {
     private String username;

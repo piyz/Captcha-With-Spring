@@ -11,6 +11,6 @@
     <title>Second Page</title>
 </head>
 <body>
-
+    EZ
 </body>
 </html>
